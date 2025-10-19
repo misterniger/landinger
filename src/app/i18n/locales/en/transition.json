@@ -1,0 +1,227 @@
+{
+    "nav": {
+        "top": "Because money shouldn’t need permission",
+        "links": {
+            "home": "Home",
+            "how-works": "How it works",
+            "affiliate": "Affiliates",
+            "security": "Privacy",
+            "ecosystem": "Faq"
+        }
+    },
+    "header": {
+        "title": {
+            "top": "Forget the system",
+            "bottom-left": "Own your",
+            "bottom-right": "freedom"
+        },
+        "subTitle": "Privacy-first crypto cards and instant payments. No KYC, no delays, no compromise.",
+        "links": {
+            "join": "Join the Waitlist",
+            "how-works": "See How it Works"
+        },
+        "logos": "Trusted by innovators at"
+    },
+    "how-works": {
+        "title": "Spend without permission",
+        "subTitle": "Your money. Your terms. No banks. No friction",
+        "cards": {
+            "0": {
+                "title": "Apple Pay & Google Pay Ready",
+                "subTitle": "Add Off-Grid to your wallet in seconds - no plastic, no paperwork. Pay anywhere, instantly, like a ghost in the system."
+            },
+            "1": {
+                "title": "No KYC — Up to $4,000/month",
+                "subTitle": "Use your money without identity scans or bureaucratic gatekeepers. Up to $4,000 a month, completely under the radar."
+            },
+            "2": {
+                "title": "Instant Top-Up Anytime",
+                "subTitle": "Fund your card with any crypto in seconds. No banking hours, no waiting - just instant access whenever you need it."
+            },
+            "3": {
+                "title": "App & Web Dashboard",
+                "subTitle": "Track every dollar, set your own limits, and manage cards from a clean, private dashboard - no middlemen in sight."
+            }
+        },
+        "bottom-text": {
+            "gray": "Your crypto, accepted everywhere —",
+            "white": "without compromise."
+        }
+    },
+    "economy": {
+        "title": {
+            "top": "Built for the world",
+            "bottom": "they said you couldn’t have"
+        },
+        "subTitle": "Forget bank hours. Forget borders. Forget permission. Whether you’re trading tokens, running a company, or living off a laptop - Offgrid keeps your money as free as you are.",
+        "cards": {
+            "0": {
+                "title": "Crypto Traders",
+                "subTitle": "Turn crypto into real-world spending power in seconds - no waiting, no withdrawal limits, no middlemen."
+            },
+            "1": {
+                "title": "Digital Nomads",
+                "subTitle": "Swipe in any currency, anywhere on the planet. No foreign fees, no restrictions - just seamless borderless money."
+            },
+            "2": {
+                "title": "Builders & Founders",
+                "subTitle": "Move funds, pay teams, invest, or build - all without permission, friction, or surveillance."
+            }
+        }
+    },
+    "why-us": {
+        "title": {
+            "top": "Why stay in the system ",
+            "bottom": "when you can leave it?"
+        },
+        "subTitle": "Most cards make you choose: privacy or convenience. Offgrid gives you both — no banks, no middlemen, no permission.",
+        "bottom-text": {
+            "gray": "Stop asking for permission.",
+            "white": "Start spending on your terms."
+        }
+    },
+    "privacy": {
+        "title": {
+            "top": "Privacy by Default ",
+            "bottom": "Freedom by Design"
+        },
+        "subTitle": {
+            "gray": "Off Grid was built for those who move outside the system.",
+            "white": "No KYC. No unnecessary data collection."
+        },
+        "cards": {
+            "0": {
+                "title": "Anonymous Spending",
+                "subTitle": "They demand IDs. We don’t. Spend up to $5,000/month without handing over your face, passport, or personal data. Your money, your identity — both stay yours."
+            },
+            "1": {
+                "title": "Zero Data, Zero Risk",
+                "subTitle": "We don’t store what we don’t need. No logs. No profiles. No hidden databases waiting to be breached or sold. Once a transaction is done, it’s gone — permanently."
+            },
+            "2": {
+                "title": "Military-Grade Encryption",
+                "subTitle": "From wallet to merchant, every tap is sealed with end-to-end encryption. Not even we can see what you’re doing — and that’s the point."
+            },
+            "3": {
+                "title": "Dynamic Virtual Cards",
+                "subTitle": "Stay invisible, even when you pay. Generate fresh virtual cards on demand — rotating credentials that make tracking you near impossible."
+            }
+        },
+        "bottom-text": {
+            "white": "They build systems to watch you.",
+            "gray": "We build tools to make you disappear."
+        }
+    },
+    "membership": {
+        "title": {
+            "top": "Choose Your Tier",
+            "bottom": "Unlock Your Power"
+        },
+        "subTitle": "From everyday spending to elite crypto privileges — Shadow, Phantom, or Ghost. One card, three levels of rewards.",
+        "monthly": " Monthly",
+        "yearly": " Yearly",
+        "cards": {
+            "0": {
+                "title": "Anonymous Spending",
+                "subTitle": "They demand IDs. We don’t. Spend up to $5,000/month without handing over your face, passport, or personal data. Your money, your identity — both stay yours."
+            },
+            "1": {
+                "title": "Zero Data, Zero Risk",
+                "subTitle": "We don’t store what we don’t need. No logs. No profiles. No hidden databases waiting to be breached or sold. Once a transaction is done, it’s gone — permanently."
+            },
+            "2": {
+                "title": "Military-Grade Encryption",
+                "subTitle": "From wallet to merchant, every tap is sealed with end-to-end encryption. Not even we can see what you’re doing — and that’s the point."
+            },
+            "3": {
+                "title": "Dynamic Virtual Cards",
+                "subTitle": "Stay invisible, even when you pay. Generate fresh virtual cards on demand — rotating credentials that make tracking you near impossible."
+            }
+        },
+        "bottom-text": {
+            "gray": "You also get paid to share freedom! Earn bonuses, commissions, and perks",
+            "white": "for every referral."
+        }
+    },
+    "faq": {
+        "title": {
+            "top": "Everything they don’t want",
+            "bottom": " you to know - answered"
+        },
+        "subTitle": "Get the full picture of how Offgrid lets you spend, move, and live -without permission.",
+        "bottom-text": "Still have questions?",
+        "linkName": "Contact Support",
+        "questions": {
+            "0": {
+                "title": "How does Offgrid work without KYC?",
+                "answer": "We don’t need your passport to know your payment is valid. Offgrid uses zero-knowledge proofs and advanced cryptography to verify transactions - without collecting or storing personal data. You load crypto, we convert and process it, and that’s it."
+            },
+            "1": {
+                "title": "Which cryptocurrencies are supported?",
+                "answer": "Literally everything, we will even accept shitcoins."
+            },
+            "2": {
+                "title": "How do I add funds to my Offgrid card?",
+                "answer": "Simple: deposit crypto directly from your wallet. Once it’s in, you can spend it instantly - no delays, no forms, no questions."
+            },
+            "3": {
+                "title": "Where can I use my Offgrid card?",
+                "answer": "Anywhere Visa is accepted - online, in stores, globally. If they take cards, they’ll take Offgrid."
+            },
+            "4": {
+                "title": "What happens if a transaction gets declined?",
+                "answer": "It’s rare - but if it happens, you’ll get an instant notification explaining why. Most issues are balance-related and can be resolved immediately by topping up or retrying."
+            },
+            "5": {
+                "title": "Is there a mobile app and web interface?",
+                "answer": "Yes. Full control on desktop or mobile: track spending, generate virtual cards, manage accounts, and view rewards - all without giving up your privacy."
+            }
+        }
+    },
+
+    "footer": {
+        "title": {
+            "top": "Take Back Control",
+            "bottom": "Spend Without Permission"
+        },
+
+        "subTitle": {
+            "top": "The system was built to watch, limit, and decide",
+            "bottom": "Offgrid gives you the tools to ignore it."
+        },
+        "ctaLinkName": "Join the Revolution",
+        "terms": "© 2025 Off Grid LLC. All rights reserved.",
+        "info": {
+            "info-text": " Privacy-first crypto cards for the new economy. Spend without limits, without surveillance, without compromise.",
+            "all-systems": "All systems operational",
+            "label": "social link"
+        },
+
+        "links": {
+            "0": {
+                "title": "Product",
+                "crypto-card": "Crypto Cards",
+                "mobile-app": "Mobile App",
+                "web-dashboard": "Web Dashboard",
+                "api": "Api Access",
+                "multi-chain": "Multi-Chain Support"
+            },
+            "1": {
+                "title": "Company",
+                "about-us": "About Us",
+                "careers": "Careers",
+                "press-kit": "Press Kit",
+                "blog": "Blog",
+                "contact": "Contact"
+            },
+            "2": {
+                "title": "Support",
+                "help-center": "Help Center",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "security": "Security",
+                "status-page": "Status Page"
+            }
+        }
+    }
+}

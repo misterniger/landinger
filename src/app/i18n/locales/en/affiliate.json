@@ -1,0 +1,26 @@
+{
+    "header": {
+        "title": {
+            "top": "Turn your network",
+            "bottom": "into income"
+        },
+        "subTitle": "Every referral builds your circle - and your earnings. Climb through tiers to unlock higher commissions, lifetime rewards, and exclusive perks."
+    },
+
+    "join": {
+        "cards": {
+            "0": {
+                "title": "Get Paid for Every Move",
+                "subTitle": "Every card they order. Every transaction they make. Every payment they send. You earn on it - automatically."
+            },
+            "1": {
+                "title": "Lifetime Income, Zero Effort",
+                "subTitle": "Turn one share into recurring revenue. As long as they’re spending, you’re earning - forever."
+            },
+            "2": {
+                "title": "Bigger Reach, Bigger Rewards",
+                "subTitle": "Up to 0.25% on all transactions, $60+ per card purchase, and 10% tier-2 earnings from your network’s referrals."
+            }
+        }
+    }
+}
