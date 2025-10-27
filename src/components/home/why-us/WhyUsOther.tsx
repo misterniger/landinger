@@ -15,7 +15,7 @@ function WhyUsOther() {
                 <WhyUsInfo text="Delayed" />
                 <WhyUsInfo text="Shared" />
                 <WhyUsInfo text="Few" />
-                <WhyUsInfo text="Comlpex" />
+                <WhyUsInfo text="Complex" />
                 {/* <XCheckIcon />
                 <WhyUsInfo text="Limited" />
                 <XCheckIcon check />
