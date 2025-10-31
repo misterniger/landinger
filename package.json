@@ -9,6 +9,8 @@
         "lint": "eslint"
     },
     "dependencies": {
+        "@supabase/ssr": "^0.6.1",
+        "@supabase/supabase-js": "^2.48.1",
         "@hookform/resolvers": "^4.1.1",
         "accept-language": "^3.0.20",
         "aos": "^3.0.0-beta.6",

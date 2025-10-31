@@ -11,6 +11,7 @@ import Spinner from './Spinner'
 import { HiOutlineUser } from 'react-icons/hi2'
 import { FiMail } from 'react-icons/fi'
 import { toast } from 'react-toastify'
+import { supabase } from '@/supabase/supabase'
 
 const contactSchema = z.object({
     name: z
@@ -30,17 +31,36 @@ function WaitlistForm() {
         handleSubmit,
         formState: { errors, isSubmitting },
         reset,
+        setError,
     } = useForm<ContactType>({ resolver: zodResolver(contactSchema) })
     const modalRef = useRef(null)
     const formRef = useRef<HTMLFormElement>(null)
 
     const closeModal = useModalStore((state) => state.closeModal)
 
-    const onSubmit: SubmitHandler<ContactType> = async (data) => {
-        console.log(data)
-        toast.success(`Waitlist approved.`)
-        reset()
-        closeModal()
+    const onSubmit: SubmitHandler<ContactType> = async (userData) => {
+        const { data: existing } = await supabase
+            .from('waitlist')
+            .select('id')
+            .eq('email', userData.email)
+            .maybeSingle()
+
+        if (existing) {
+            setError('email', {
+                message: 'This email address is already on the waitlist',
+            })
+            return
+        }
+
+        const { error } = await supabase.from('waitlist').insert([userData])
+
+        if (error) {
+            toast.error(`Something went wrong, please try again`)
+        } else {
+            toast.success(`Waitlist approved.`)
+            reset()
+            closeModal()
+        }
     }
 
     const handleCloseModal = () => {

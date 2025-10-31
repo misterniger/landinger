@@ -27,8 +27,9 @@
 .Toastify__toast--success {
     @apply bg-dark4;
 }
-.Toastify__toast--success {
-    @apply bg-dark4;
+
+.Toastify__toast--error {
+    @apply bg-red-500 text-center;
 }
 
 .Toastify__progress-bar {
@@ -37,6 +38,9 @@
 
 .Toastify__close-button,
 .Toastify__toast--success {
+    @apply text-primary/80;
+}
+.Toastify__toast--error {
     @apply text-primary/80;
 }
 .Toastify__toast-icon > svg {
